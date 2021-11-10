@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>510</width>
+    <height>340</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>491</width>
+      <height>301</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>GroupBox</string>
+    </property>
+    <widget class="QPushButton" name="pushButton_email">
+     <property name="geometry">
+      <rect>
+       <x>40</x>
+       <y>40</y>
+       <width>111</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Email</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_news">
+     <property name="geometry">
+      <rect>
+       <x>190</x>
+       <y>40</y>
+       <width>111</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>NEWS</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_music">
+     <property name="geometry">
+      <rect>
+       <x>340</x>
+       <y>40</y>
+       <width>111</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>MUSIC</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="pushButton_weather">
+     <property name="geometry">
+      <rect>
+       <x>40</x>
+       <y>170</y>
+       <width>111</width>
+       <height>101</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Weather</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>510</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
