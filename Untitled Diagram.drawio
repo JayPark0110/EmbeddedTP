@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T08:14:28.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.1" etag="kxA4PGItfzjypw1FNF50" type="github"><diagram id="Cnr3sjPTXrmdGfI7a6E6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-08T08:26:39.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="enky4dvWaqeMR_dkjNfP" version="15.9.1" type="github">
+  <diagram id="Cnr3sjPTXrmdGfI7a6E6" name="Page-1">
+    <mxGraphModel dx="774" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PtmasiBZrUS__JnwUATG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PtmasiBZrUS__JnwUATG-1" target="PtmasiBZrUS__JnwUATG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;시작&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PtmasiBZrUS__JnwUATG-2" target="PtmasiBZrUS__JnwUATG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="PtmasiBZrUS__JnwUATG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;홈 화면&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-5" value="&lt;font style=&quot;font-size: 20px&quot;&gt;날씨/뉴스 헤드라인 확인&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="PtmasiBZrUS__JnwUATG-7" target="PtmasiBZrUS__JnwUATG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;날씨 기능&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;뉴스 기능&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="360" as="sourcePoint" />
+            <mxPoint x="399.5" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="399.5" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-13" value="실시간 날씨 정보 및 아이콘 출력" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PtmasiBZrUS__JnwUATG-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;기온과 대략적 날씨를 UI로 표현&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
